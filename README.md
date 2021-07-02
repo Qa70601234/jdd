@@ -79,34 +79,42 @@ scripts_base_url_2=https://gitee.com/SuperManito/scripts/raw/master/
 my_scripts_list_2="jd_try.js"
 
 ## 京东到家
+## https://github.com/passerby-b/JDDJ
 scripts_base_url_3=${DownloadJudgment}https://raw.githubusercontent.com/passerby-b/JDDJ/main/
 my_scripts_list_3="jddj_fruit.js jddj_fruit_collectWater.js jddj_bean.js jddj_plantBeans.js jddj_getPoints.js jddj_fruit_code.js jddj_cookie.js"
 
 ## 龙王
+## https://github.com/longzhuzhu/nianyu/tree/main/qx
 scripts_base_url_4=${DownloadJudgment}https://raw.githubusercontent.com/longzhuzhu/nianyu/main/qx/
 my_scripts_list_4="long_half_redrain.js long_super_redrain.js"
 
 ## Wenmoux
+
 scripts_base_url_5=${DownloadJudgment}https://raw.githubusercontent.com/Wenmoux/scripts/wen/jd/
 my_scripts_list_5="jd_SplitRedPacket.js jd_ddnc_farmpark.js"
 
 ## 柠檬/panghu
+## https://github.com/panghu999/panghu
 scripts_base_url_6=${DownloadJudgment}https://raw.githubusercontent.com/panghu999/panghu/master/
 my_scripts_list_6="jd_sqdyj.js jd_sq.js jd_wsdlb.js"
 
 ## moposmall
+## https://github.com/moposmall/Script/tree/main/Me
 scripts_base_url_7=${DownloadJudgment}https://raw.githubusercontent.com/moposmall/Script/main/Me/
 my_scripts_list_7="jx_mc_coin.js jx_mc_emptycabbage.js"
 
 ## Andy
+## https://github.com/zsm85887823/AndyJD
 scripts_base_url_8=${DownloadJudgment}https://raw.githubusercontent.com/zsm85887823/AndyJD/main/own/
 my_scripts_list_8="Andy_sendBeans.js"
 
 ## ddo
+## 
 scripts_base_url_9=${DownloadJudgment}https://raw.githubusercontent.com/hyzaw/scripts/main/
 my_scripts_list_9="ddo_pk.js"
 
 ## star261
+## 
 scripts_base_url_10=${DownloadJudgment}https://raw.githubusercontent.com/star261/jd/main/scripts/
 my_scripts_list_10="star_dreamFactory_tuan.js"
 
