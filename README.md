@@ -74,6 +74,14 @@ author_list="Public ZCY01 passerby-b LongZhuZhu Wenmoux panghu MoPoQAQ Andy ddo 
 scripts_base_url_1=https://gitee.com/SuperManito/scripts/raw/master/
 my_scripts_list_1="jx_cfdtx.js jdJxncTokens.js jd_necklace.js"
 
+
+
+#SuperManito
+https://gitee.com/SuperManito/scripts/tree/master/
+#其他
+https://github.com/YouHolmes/JdScripts
+
+
 ## 京东试用
 scripts_base_url_2=https://gitee.com/SuperManito/scripts/raw/master/
 my_scripts_list_2="jd_try.js"
