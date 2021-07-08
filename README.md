@@ -80,6 +80,8 @@ my_scripts_list_1="jx_cfdtx.js jdJxncTokens.js jd_necklace.js"
 https://gitee.com/SuperManito/scripts/tree/master/
 #其他
 https://github.com/YouHolmes/JdScripts
+#燃情
+https://github.com/smiek2221/scripts
 
 
 ## 京东试用
