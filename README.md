@@ -31,6 +31,9 @@
 > 柠檬京东脚本私库（胖虎库）不定时开
 > ql repo https://ghproxy.com/https://github.com/panghu999/panghu.git "jd_"
 
+> Aaron-lv的库
+> https://github.com/Aaron-lv/sync/tree/jd_scripts
+
 
 
 
