@@ -34,6 +34,25 @@
 > Aaron-lv的库
 > https://github.com/Aaron-lv/sync/tree/jd_scripts
 
+>cdle的库    
+> https://github.com/cdle/jd_study
+
+> smiek2221
+> scripts_base_url_10=${DownloadJudgment}https://raw.githubusercontent.com/smiek2221/scripts/master/
+> my_scripts_list_10="jd_sign_graphics.js jd_joy_steal.js gua_wealth_island.js jd_summer_movement.js jd_summer_movement_help.js"
+
+> jiulan
+> scripts_base_url_11=${DownloadJudgment}https://raw.githubusercontent.com/jiulan/platypus/main/scripts/
+> my_scripts_list_11="jd_shop_sign.js jd_joypark_task.js"
+
+> moposmall
+> scripts_base_url_7=${DownloadJudgment}https://raw.githubusercontent.com/moposmall/Script/main/Me/
+> my_scripts_list_7="jx_mc_coin.js jx_mc_emptycabbage.js"
+
+> curtinlv
+> scripts_base_url_8=${DownloadJudgment}https://raw.githubusercontent.com/curtinlv/JD-Script/main/
+> my_scripts_list_8="jd_cashHelp.py jd_jxgc_tuan.py jd_qjd.py"
+
 
 
 
